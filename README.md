@@ -1,0 +1,2 @@
+# my-new-project
+BUILDING AI COURSE PROJECT
